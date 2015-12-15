@@ -1,7 +1,7 @@
 name: Umaku
 favicon: null
-layout_spectrum: 0.80913
-typography_spectrum: 0.28511
+layout_spectrum: 1
+typography_spectrum: 0.72594
 title: Umaku
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#006790'
-    - '#942440'
-    - '#191919'
-    - '#004080'
-    - '#000080'
+    - '#ffffff'
+    - '#d1dded'
+    - '#1d323f'
+    - '#6e7e95'
+    - '#000d15'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 1
+  lightness: 0.875
+  saturation: 0
   rhythmicContrast: 0.25
 purpose: []
