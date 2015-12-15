@@ -1,0 +1,28 @@
+name: Umaku
+favicon: null
+layout_spectrum: 0.8367254566401243
+typography_spectrum: 0.4928754798602313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5225560045801103
+  lightness: 0.7390839771833271
+  saturation: 0.25782559090293944
+  rhythmicContrast: 0.21389751229435205
+purpose: []
