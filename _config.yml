@@ -2,6 +2,7 @@ name: Umaku
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.28511
+title: Umaku
 cta:
   domain: null
   bucket: null
