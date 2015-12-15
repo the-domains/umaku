@@ -1,6 +1,6 @@
 name: Umaku
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.80913
 typography_spectrum: 0.28511
 title: Umaku
 cta:
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5
-  lightness: 0.7390839771833271
-  saturation: 0.25782559090293944
-  rhythmicContrast: 0.21389751229435205
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
