@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.'
-datePublished: '2016-04-05T11:42:49.119Z'
-dateModified: '2016-04-05T11:42:48.337Z'
+datePublished: '2016-04-05T11:43:29.701Z'
+dateModified: '2016-04-05T11:43:01.540Z'
 title: "Larry Bertleman\_"
 author: []
 sourcePath: _posts/2015-12-15-lorem-ipsum-dolor-sit.md
