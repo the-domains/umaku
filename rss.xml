@@ -4,7 +4,7 @@
         <description><![CDATA[Umaku]]></description>
         <link>https://thegrid.ai/umaku/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 11:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 11:54:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/umaku/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -32,7 +32,7 @@
             <description><![CDATA[<article><h1>Hello world</h1><p>This post is just text to see it in action</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b91dd781ab831c835b190a6e322ffe4934a77c9c.png"></article>]]></description>
             <link>https://thegrid.ai/umaku/hello-world/index.html</link>
             <guid isPermaLink="false">6bade6be-7fe1-4843-abb1-733e33d3a19f</guid>
-            <pubDate>Tue, 05 Apr 2016 11:43:10 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 11:53:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This a my title]]></title>
