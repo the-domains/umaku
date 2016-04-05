@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This post is just text to see it in action
-datePublished: '2016-04-05T12:15:14.256Z'
-dateModified: '2016-04-05T12:14:51.510Z'
+datePublished: '2016-04-05T14:33:17.396Z'
+dateModified: '2016-04-05T14:33:16.767Z'
 title: Umaku world
 author: []
 sourcePath: _posts/2015-12-15-hello-world.md
