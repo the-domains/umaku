@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.juicebox.net/demos/lite/full/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Juicebox-Lite Full Browser Demo. Full browser gallery with default options.
-datePublished: '2016-04-14T13:42:20.741Z'
-dateModified: '2016-04-14T13:42:12.887Z'
+datePublished: '2016-04-14T13:43:48.642Z'
+dateModified: '2016-04-14T13:42:49.737Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: www.juicebox.net
   url: 'http://www.juicebox.net'
   favicon: 'http://www.juicebox.net/favicon.ico'
+url: juicebox-lite-full-browser-demo/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
